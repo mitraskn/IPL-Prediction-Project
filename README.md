@@ -13,7 +13,7 @@ A machine learning project that analyzes IPL 2026 league stage match data and pr
 - Encoded categorical columns and applied StandardScaler on key numeric features
 - Trained three classification models to predict match winners
 - Used 5-fold cross-validation due to the small dataset size (38 usable rows)
-- Built a final stat-based predictor: takes live team stats as input and compares 5 key metrics to predict the winner
+- Since model accuracy was low due to limited data, used a simple stat-based comparison of 5 key metrics to predict the final winner
 
 ---
 
