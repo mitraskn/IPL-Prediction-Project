@@ -68,4 +68,4 @@ uv sync
 ## Author
 
 **Mitra Sreekandan**  
-BE CSE, 2nd Year — Sri Krishna College of Technology (SKCT)
+BE CSE, SKCT (2024–2028)
